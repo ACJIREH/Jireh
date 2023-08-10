@@ -1,0 +1,25 @@
+
+<head>
+  <style>
+    .image-box {
+      border: 1px solid #ccc;
+      padding: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .image {
+      max-width: 150px;
+      margin: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="image-box">
+    <img class="image" src="ruta_de_la_imagen_1.jpg" alt="Pieza 1">
+    <img class="image" src="ruta_de_la_imagen_2.jpg" alt="Pieza 2">
+    <img class="image" src="ruta_de_la_imagen_3.jpg" alt="Pieza 3">
+    <!-- Agrega más imágenes de piezas aquí -->
+  </div>
+</body>
