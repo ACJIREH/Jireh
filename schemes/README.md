@@ -1,3 +1,4 @@
 Electromechanical diagrams
 ====
-![Osoyoo Motor Shield 1 1v](https://github.com/ACJIREH/Jireh/assets/141764789/6c506ea4-bc06-4155-996d-7589b0c69cc1)
+![Osoyoo Motor Shield 1 1v (2)](https://github.com/ACJIREH/Jireh/assets/141764789/321dab08-095c-4489-838b-9a6f68013f35)
+
