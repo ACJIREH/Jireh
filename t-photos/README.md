@@ -1,4 +1,12 @@
-Team's photos
-====
 
-This directory must contain 2 photos of the team (an official one and one funny photo with all team members)
+<h2> Team Photo </h2>
+<img src=""
+     width="300"
+     height="300"
+     title="Team Photo.">
+    
+<h2> Fun Team Photo </h2>
+<img src=""
+     width="300"
+     height="300"
+     title="Fun Team Photo">
