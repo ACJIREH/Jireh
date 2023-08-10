@@ -1,25 +1,41 @@
-
+<html>
 <head>
   <style>
-    .image-box {
-      border: 1px solid #ccc;
-      padding: 10px;
+    .container {
       display: flex;
-      justify-content: space-between;
       align-items: center;
     }
 
-    .image {
-      max-width: 150px;
-      margin: 5px;
+    .piece {
+      flex: 1;
+      padding: 10px;
+    }
+
+    .piece-name {
+      font-weight: bold;
+    }
+
+    .piece-image {
+      flex: 1;
+      text-align: center;
+    }
+
+    .piece-image img {
+      max-width: 100%;
+      height: auto;
     }
   </style>
 </head>
 <body>
-  <div class="image-box">
-    <img class="image" src="ruta_de_la_imagen_1.jpg" alt="Pieza 1">
-    <img class="image" src="ruta_de_la_imagen_2.jpg" alt="Pieza 2">
-    <img class="image" src="ruta_de_la_imagen_3.jpg" alt="Pieza 3">
-    <!-- Agrega más imágenes de piezas aquí -->
+  <div class="container">
+    <div class="piece">
+      <p class="piece-name">Pieza 1</p>
+      <!-- Agrega más etiquetas <p class="piece-name"> para las otras piezas -->
+    </div>
+    <div class="piece-image">
+      <img src="ruta_de_la_imagen_1.jpg" alt="Pieza 1">
+      <!-- Agrega más <img> para las otras imágenes -->
+    </div>
   </div>
 </body>
+</html>
