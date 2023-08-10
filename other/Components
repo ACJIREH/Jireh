@@ -1,41 +1,5 @@
-<html>
-<head>
-  <style>
-    .container {
-      display: flex;
-      align-items: center;
-    }
-
-    .piece {
-      flex: 1;
-      padding: 10px;
-    }
-
-    .piece-name {
-      font-weight: bold;
-    }
-
-    .piece-image {
-      flex: 1;
-      text-align: center;
-    }
-
-    .piece-image img {
-      max-width: 100%;
-      height: auto;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="piece">
-      <p class="piece-name">Pieza 1</p>
-      <!-- Agrega más etiquetas <p class="piece-name"> para las otras piezas -->
-    </div>
-    <div class="piece-image">
-      <img src="ruta_de_la_imagen_1.jpg" alt="Pieza 1">
-      <!-- Agrega más <img> para las otras imágenes -->
-    </div>
-  </div>
-</body>
-</html>
+| Nombre de la Pieza | Imagen |
+| ----------------- | ------ |
+| Pieza 1           | ![Pieza 1](ruta_de_la_imagen_1.jpg) |
+| Pieza 2           | ![Pieza 2](ruta_de_la_imagen_2.jpg) |
+| Pieza 3           | ![Pieza 3](ruta_de_la_imagen_3.jpg) |
