@@ -3,8 +3,6 @@
 |La mayoría de estas piezas estaban incluidas en el kit 'OSOYOO V2.1 Robot Car for Arduino: Modelo #2019012400', que es el modelo que utilizamos.|
 | The majority of these pieces were included in the "OSOYOO V2.1 Robot Car for Arduino: Model#2019012400" kit, which is the model we used.|
 | ---------------------------------- |
-|            Introduction            |
-| ---------------------------------- |
 | OSOYOO basic board                 |
 |![UNO](https://github.com/ACJIREH/Jireh/assets/141764789/4773b752-4eac-4a69-bb54-55a7d40f9f63)|
 | OSOYOO Uart Wi-Fi shield V1.3      |
