@@ -1,3 +1,5 @@
+Fotos del equipo / Team photo´s
+=============
 
 <h2> Foto del equipo / Team Photo </h2>
 <img src="https://github.com/ACJIREH/Jireh/assets/141764789/dc25fb6f-4485-48f0-a4f1-04db67c3293a"
