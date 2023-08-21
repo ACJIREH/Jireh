@@ -1,5 +1,6 @@
 |             Components             |
 | ---------------------------------- |
+|La mayoría de estas piezas estaban incluidas en el kit 'OSOYOO V2.1 Robot Car for Arduino: Modelo #2019012400', que es el modelo que utilizamos.|
 | The majority of these pieces were included in the "OSOYOO V2.1 Robot Car for Arduino: Model#2019012400" kit, which is the model we used.|
 | ---------------------------------- |
 |            Introduction            |
