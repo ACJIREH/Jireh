@@ -1,7 +1,50 @@
-Engineering materials
+Materiales de ingenieria / Engineering materials
 ====
 
-## Introduction
+# Español
+
+I. Objetivo del Código:
+
+Nuestro objetivo al desarrollar este código es dotar al vehículo con la capacidad de navegar de manera autónoma en una pista, utilizando sensores ultrasónicos y un servo para tomar decisiones y ajustar su movimiento.
+
+II. Estructura del Código:
+
+Presentamos el código en varias secciones clave:
+
+Importación de Librerías: Aquí, importamos las librerías necesarias para controlar el servo, la comunicación I2C y la pantalla LCD.
+Declaración de Variables: Definimos variables que almacenan valores relevantes como distancias, velocidades y ángulos.
+Funciones Personalizadas: Creamos funciones personalizadas, como la que mide la distancia ultrasónica y aquellas que gestionan la presentación de datos en la pantalla LCD.
+Configuración Inicial: En la función setup(), configuramos los pines y establecemos valores iniciales.
+Bucle Principal: La lógica principal del vehículo reside aquí:
+Medimos distancias usando sensores ultrasónicos.
+Controlamos el movimiento del vehículo mediante motores y un servo.
+Actualizamos la información en la pantalla LCD.
+
+III. Funciones Clave:
+
+Destacamos algunas funciones importantes:
+
+fnc_ultrasonic_distance: Mide distancias utilizando un sensor ultrasónico y devuelve valores en centímetros.
+adelante, giro_derecho, giro_izquierda, retroceder: Funciones que controlan el movimiento del vehículo y el servo.
+datos_en_pista, datos_en_calculo: Funciones que presentan información relevante en la pantalla LCD.
+
+IV. Proceso de Desarrollo:
+
+Para construir y utilizar este código:
+
+Configuramos el entorno de desarrollo, como Arduino IDE.
+Conectamos componentes como sensores ultrasónicos, motores y la pantalla LCD según las especificaciones del código.
+Escribimos y editamos el código en Arduino IDE.
+Compilamos el código y lo cargamos en el microcontrolador del vehículo usando un cable de programación.
+Al encender el vehículo, seguirá las instrucciones del código y se moverá de manera autónoma en la pista.
+
+V. Conclusiones:
+
+El código presentado es el núcleo de nuestro vehículo autónomo.
+Permite que el vehículo tome decisiones informadas basadas en datos recopilados por sus sensores.
+La integración precisa de funciones, variables y decisiones lo convierte en un sistema autónomo eficiente y capaz.
+
+# English
 
 I. Code Objective:
 
